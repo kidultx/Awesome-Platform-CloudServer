@@ -6,3 +6,4 @@ List of awesome open source platforms for cloud server
 + [yapi](https://github.com/YMFE/yapi) YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 + [Yearning](https://github.com/cookieY/Yearning) A most popular sql audit platform for mysql 
 + [zFile](https://github.com/zhaojun1998/zfile) 在线云盘
++ [Cloudreve](https://github.com/cloudreve/Cloudreve) 持多家云存储的云盘系统 (A project helps you build your own cloud in minutes) 
